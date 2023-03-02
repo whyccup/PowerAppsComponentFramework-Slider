@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "wmaurer.change-case",
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "davidanson.vscode-markdownlint",
+    "christian-kohler.path-intellisense",
+    "microsoft-isvexptools.powerplatform-vscode",
+    "esbenp.prettier-vscode",
+    "dotjoshjohnson.xml"
+  ]
+}
