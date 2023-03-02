@@ -1,1 +1,1 @@
-# PowerAppsComponentFramework-slider
+# PowerAppsComponentFramework-Slider
