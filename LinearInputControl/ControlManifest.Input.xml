@@ -11,12 +11,20 @@
       <external-service-usage enabled="false">
       </external-service-usage>
     -->
-    <external-service-usage enabled="false">
+    <!-- <external-service-usage enabled="false"> -->
       <!--UNCOMMENT TO ADD EXTERNAL DOMAINS
       <domain></domain>
       <domain></domain>
       -->
-    </external-service-usage>
+    <!-- </external-service-usage> -->
+
+    <type-group name="numbers">
+      <type>Whole.None</type>
+      <type>Currency</type>
+      <type>FP</type>
+      <type>Decimal</type>
+   </type-group>
+
     <!-- property node identifies a specific, configurable piece of data that the control expects from CDS -->
     <property name="sampleProperty" display-name-key="Property_Display_Key" description-key="Property_Desc_Key" of-type="SingleLine.Text" usage="bound" required="true" />
     <!--
